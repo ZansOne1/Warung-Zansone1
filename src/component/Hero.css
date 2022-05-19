@@ -1,0 +1,38 @@
+.hero {
+    opacity: 1;
+}
+
+.hero .content {
+    background-color: whitesmoke;
+    padding: 100px;
+    border: 2px solid rgb(251, 249, 223);
+    border-radius: 12px;
+    opacity: 0.9;
+
+    font-size: 18px;
+    text-align: center;
+    color: rgb(8, 7, 0);
+    font-family: 'Tegak Bersambung IWK';
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.hero .content p {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.hero .content button {
+    cursor: pointer;
+    color: rgb(33, 26, 1);
+    font-size: 18px;
+    padding: 10px 40px;
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 10px;
+    font-family: calibri;
+    background-color: #FFC000;
+}

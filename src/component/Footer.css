@@ -1,0 +1,23 @@
+.footer {
+    /* margin-top: 5px; */
+    height: 100px;
+    color: rgb(249, 250, 252);
+    background-color: rgb(64, 87, 112);
+}
+
+.footer ul {
+    position: absolute;
+    margin-right: 50px;
+}
+
+.footer ul li {
+    list-style: none;
+}
+
+.footer .copyright {
+    font-size: 18px;
+    position: relative;
+    margin-top: 25px;
+    margin-right: 10px;
+    float: right;
+}
